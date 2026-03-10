@@ -35,11 +35,18 @@
     "provider": "github-actions",
     "workflow_file": ".github/workflows/ci.yml"
   },
-  "phases_completed": [],
+  "phases_completed": [
+    {
+      "phase": 1,
+      "title": "Foundation & Data Store",
+      "started_at": "2026-03-10T13:41:00Z",
+      "completed_at": "2026-03-10T13:50:00Z"
+    }
+  ],
   "milestone_history": [],
   "last_commands": {
     "init": "2026-03-10T13:35:00Z",
-    "phase": null,
+    "phase": "2026-03-10T13:50:00Z",
     "run": "2026-03-10T13:40:00Z",
     "finish": null,
     "status": null
